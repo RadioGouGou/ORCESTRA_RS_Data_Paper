@@ -1,3 +1,3 @@
 Repository towards the ORCESTRA radiosonde data paper.
 
-Set up an environment from the '''environment.yml''' if you want to work with pySonde.
+It's recommended to set up a conda environment from the '''environment.yml'''.
